@@ -1,0 +1,32 @@
+h1{
+    color: darkblue;
+    text-align: center;
+}
+.top{
+    min-height: 250px;
+    background-color: pink;
+    margin: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.middle{
+        min-height: 250px;
+        background-color: aquamarine;
+        margin: 15px;
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;    
+}
+.bottom{
+    min-height: 250px;
+    background-color: grey;
+    margin: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+img {
+    max-height: 200px;
+}
